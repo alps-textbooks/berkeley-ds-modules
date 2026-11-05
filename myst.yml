@@ -65,6 +65,10 @@ project:
               title: Lab 9
             - file: content/cp-101/lab10/lab10.ipynb
               title: Lab 10
+    - title: Back Matter
+      children:
+        - file: about-this-book.md
+          title: About This Book
 site:
   options:
     folders: true
